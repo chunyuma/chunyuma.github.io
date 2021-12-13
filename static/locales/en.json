@@ -3,7 +3,6 @@
     "title": "Chunyu's Personal Website"
   },
   "nav":{
-    "home": "Home",
     "about_me": "About",
     "skills": "Skills",
     "projects": "Projects",
@@ -15,6 +14,10 @@
     "title": "Welcome to My Website",
     "subtitle": "「Play hard, Work Hard」"
   },
+  "blog_header":{
+    "title": "Welcome to My Blog",
+    "subtitle": "In this blog, I mainly share the knowledge of machine learning, deep learning, statistics and other data analysis techniques"
+  },
   "author":{
     "first_name": "Chunyu",
     "last_name": "Ma",
@@ -24,23 +27,26 @@
   "about_me":{
     "about_me": "About Me",
     "biography": "Biography",
-    "des": "I'm currenly a PhD. graduate student studying bioinformatics at Penn State University. My main research interest is developing or applying the graph theory and machine learning methods to integrate different biomedical data in a high-efficient fashion and translating the multidimensional omics data into clinical applications. Thus, I'm pretty interested in the application of GNNs and Knowledge Graph in bioinformatics (eg. Drug Repurposing, metagenomics classification or identification and etc). I also have hands-on experience in analyzing differnt biomedical data including genomics(RNA-seq), epigenomics (ChIP-seq), metabolomics(LC-MS, GCMS), and metagenomics(shotgun metagenomics). I'm familiar with statistical models and machine learning methods in biomedical research. I'm comfortable with using Python and R as my daily programing language but also have experience in Perl, SAS, SQL, and Matlab. I have ever involved in the development of multiple R packages, Bioinformatics Databases and Biomedical Data Translator (NCATS Program).",
+    "des": "I'm currenly a PhD. graduate student studying bioinformatics at Penn State University. My main research interest is developing or applying the graph theory and machine learning methods to integrate different biomedical data in a high-efficient fashion and translating the multidimensional omics data into clinical applications. Thus, I'm pretty interested in the application of GNNs and Knowledge Graph in bioinformatics (eg. Drug Repurposing, metagenomics classification or identification and etc). I also have hands-on experience in analyzing differnt biomedical data including genomics(RNA-seq), epigenomics (ChIP-seq), metabolomics(LC-MS, GCMS), and metagenomics(shotgun metagenomics). I'm familiar with statistical models and machine learning methods in biomedical research. I'm comfortable with using Python and R as my daily programing language but also have experience in C, SAS, SQL, and Matlab. I have ever involved in the development of multiple R packages, Bioinformatics Databases and Biomedical Data Translator (NCATS Program).",
     "interests": {
       "name": "Interests",
       "var1": "Knowledge Graph",
       "var2": "Graph Neural Networks",
       "var3": "Data Mining",
-      "var4": "Drug Repurposing",
-      "var5": "NLP applications"
+      "var4": "Drug Repurposing"
     },
     "education": {
       "name": "Education",
       "var1": {
-        "degree": "MS in Biostatistics,  2016",
-        "school": "Washington University in St. Louis (USA)"
+        "degree": "PhD in Bioinformatics,  2019-present",
+        "school": "Penn State University (USA)"
       },
       "var2": {
-        "degree": "BS in Bioinformatics,  2014",
+        "degree": "MS in Biostatistics,  2015-2016",
+        "school": "Washington University in St. Louis (USA)"
+      },
+      "var3": {
+        "degree": "BS in Bioinformatics, 2010-2014",
         "school": "Southern Medical University (China)"
       }
     }
@@ -74,50 +80,54 @@
   "career":{
     "my_career": "My Career",
     "var1":{
+      "name": "Penn State University",
+      "loc": "State College, USA",
+      "desc": "I'm now working as a Research Assisant at Koslicki Laboratory and my main researech projects focus on drug repurposing and developing a new graph embedding model based on a huge biomedical knowledge graph which contains millions of nodes and tens of millions of edges.",
+      "date": "May. 2020 - present",
+      "job": "Research Assistant"
+    },
+    "var2":{
       "name": "Emory University",
       "loc": "Atlanta, USA",
       "desc": "I worked as a Bioinformatician at Clinical Biomarkers Laboratory, mainly responsible for several bioinformatics tools and applications development and clinical metabolomics analysis.",
       "date": "Feb. 2017 - Apr. 2019",
       "job": "Bioinformatician"
     },
-    "var2":{
+    "var3":{
       "name": "Knight Alzheimer's Disease Research Center",
       "loc": "St. Louis, USA",
       "desc": "I worked at Knight Alzheimer's Disease Research Center as a Summer Intern, performing statitical analysis for several Alzheimer’s Disease studies.",
       "date": "Jun. 2016 - Aug. 2016",
       "job": "Summer Intern"
     },
-    "var3":{
+    "var4":{
       "name": "Washington University in St. Louis",
       "loc": "St. Louis, USA",
       "desc": "I worked as a Research Assisant at Zhang Laboratory. During this time, I developed an interactive database called 'FeatSNP' and perform WGS, RNA-seq and ChIP-seq Analysis for several studies.",
       "date": "Oct. 2015 - Jan. 2017",
       "job": "Research Assistant"
     },
-    "var4":{
+    "var5":{
       "name": "Beijing Genomics Institute",
       "loc": "Shenzhen, China",
       "desc": "I worked as a Bioinformatics Analyst at China National GeneBank department, working on several comparative genomics projects.",
       "date": "Nov. 2013 - Jun. 2014",
       "job": "Bioinformatics Analyst"
-    },
-    "var5":{
-      "name": "Southern Medical University",
-      "loc": "Guangzhou, China",
-      "desc": "I worked as a Research Assisant at Bioinformatics Teaching and Research Department, learning different bioinformatics skills.",
-      "date": "Sep. 2012 - May. 2013",
-      "job": "Research Assistant"
     }
   },
   "publications":{
     "my_publications": "My Publications"
   },
   "blog":{
-    "my_blog": "My Blog"
-  },
-  "link":{
-    "link": "Link",
-    "view": "views"
+    "my_blog": "My Blog",
+    "content":{
+      "blog_name": "Latest Blog",
+      "ML_name": "Machine Learning",
+      "DL_name": "Deep Learning",
+      "html_name": "HTML",
+      "statistics_name": "Statistics",
+      "others_name": "Others"
+    }
   }
 
 }

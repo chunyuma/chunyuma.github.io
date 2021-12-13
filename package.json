@@ -1,8 +1,10 @@
 {
+  "main": "",
   "scripts": {
     "build": "node build/build.js",
     "dev": "node build/dev-server.js"
   },
+  "license": "MIT",
   "dependencies": {
     "animate.css": "^3.5.2",
     "bootstrap": "^3.3.6",
