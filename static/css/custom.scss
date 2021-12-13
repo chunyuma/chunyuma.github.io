@@ -1,0 +1,86 @@
+---
+
+---
+
+@import "search";
+@import "pygments";
+@import "open_sans";
+@import "roboto";
+@import "style";
+
+.intro-header {
+    background: no-repeat center center;
+    background-color: #a3a3a3;
+    background-attachment: scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    margin-bottom: 0px;
+    /* 0 on mobile, modify by Hux */
+  }
+
+div.intro-header{
+    position: relative;
+    background-image: url({{ site.header_img | prepend: site.baseurl }});
+    // background: {{ page.header-bg-css }};
+}
+
+.header_container{
+    width: 750px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.header_div{
+    width: 750px;
+    margin: 0;
+}
+
+.site-heading{
+    text-align: center;
+    padding: 150px 0;
+    color: #fff;
+    height: 400px;
+}
+
+.site-heading h1{
+    font-size: 60px;
+    margin-top: 0;
+    line-height: 1.1;
+    font-weight: 700;
+}
+
+.subheading{
+    font-size: 25px;
+    line-height: 1.1;
+    display: block;
+    font-weight: 300;
+    margin: 10px 0 0;
+}
+
+i.aboutme_fa{
+    font-size: 26px;
+    padding:4px;
+    margin-top:2px;
+}
+
+i.career_fa{
+    font-size: 26px;
+}
+
+div.projec_idv{
+    height: 200px;
+    margin-bottom: 25px;
+}
+
+.my-btn{
+    color: #3385FF;
+    font-weight: bold;
+}
+
+.fa-ul{
+    padding-bottom: 20px;
+}
