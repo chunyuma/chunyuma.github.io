@@ -83,7 +83,7 @@
     "var1":{
       "name": "Penn State University",
       "loc": "State College, USA",
-      "desc": "I'm now working as a Research Assisant at Koslicki Laboratory and my main researech projects focus on drug repurposing and developing a new graph embedding model based on a huge biomedical knowledge graph which contains millions of nodes and tens of millions of edges.",
+      "desc": "I'm now working as a Research Assistant at Koslicki Laboratory and my main researech projects focus on drug repurposing and developing a new graph embedding model based on a huge biomedical knowledge graph which contains millions of nodes and tens of millions of edges.",
       "date": "May. 2020 - present",
       "job": "Research Assistant"
     },
@@ -104,7 +104,7 @@
     "var4":{
       "name": "Washington University in St. Louis",
       "loc": "St. Louis, USA",
-      "desc": "I worked as a Research Assisant at Zhang Laboratory. During this time, I developed an interactive database called 'FeatSNP' and perform WGS, RNA-seq and ChIP-seq Analysis for several studies.",
+      "desc": "I worked as a Research Assistant at Zhang Laboratory. During this time, I developed an interactive database called 'FeatSNP' and perform WGS, RNA-seq and ChIP-seq Analysis for several studies.",
       "date": "Oct. 2015 - Jan. 2017",
       "job": "Research Assistant"
     },
