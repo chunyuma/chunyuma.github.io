@@ -88,27 +88,34 @@
       "job": "Research Assistant"
     },
     "var2":{
+      "name": "Phase Genomics",
+      "loc": "Seattle, USA",
+      "desc": "I worked as a Bioinformatics Intern at Phase Genomics. The project I mainly work on is about applying the CNN-based model and the GNN-based model to learn the interaction between phages (e.g., viruses) and hosts (e.g., bacteria) for accelerating phage therapy in clinical application.",
+      "date": "May. 2022 - Augst. 2022",
+      "job": "Summer Intern"
+    },
+    "var3":{
       "name": "Emory University",
       "loc": "Atlanta, USA",
       "desc": "I worked as a Bioinformatician at Clinical Biomarkers Laboratory, mainly responsible for several bioinformatics tools and applications development and clinical metabolomics analysis.",
       "date": "Feb. 2017 - Apr. 2019",
       "job": "Bioinformatician"
     },
-    "var3":{
+    "var4":{
       "name": "Knight Alzheimer's Disease Research Center",
       "loc": "St. Louis, USA",
       "desc": "I worked at Knight Alzheimer's Disease Research Center as a Summer Intern, performing statitical analysis for several Alzheimer’s Disease studies.",
       "date": "Jun. 2016 - Aug. 2016",
       "job": "Summer Intern"
     },
-    "var4":{
+    "var5":{
       "name": "Washington University in St. Louis",
       "loc": "St. Louis, USA",
       "desc": "I worked as a Research Assistant at Zhang Laboratory. During this time, I developed an interactive database called 'FeatSNP' and perform WGS, RNA-seq and ChIP-seq Analysis for several studies.",
       "date": "Oct. 2015 - Jan. 2017",
       "job": "Research Assistant"
     },
-    "var5":{
+    "var6":{
       "name": "Beijing Genomics Institute",
       "loc": "Shenzhen, China",
       "desc": "I worked as a Bioinformatics Analyst at China National GeneBank department, working on several comparative genomics projects.",
