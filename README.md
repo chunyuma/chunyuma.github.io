@@ -1,2 +1,2 @@
-# This repo is for my personal website
+# This repo is the source code for my personal website
 

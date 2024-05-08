@@ -1,0 +1,141 @@
+{
+  "website":{
+    "title": "Chunyu's Personal Website"
+  },
+  "nav":{
+    "about_me": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "career": "Career",
+    "publications": "Publications",
+    "blog": "Blog"
+  },
+  "header":{
+    "title": "Welcome to My Website",
+    "subtitle": "「Work hard, Play Hard」"
+  },
+  "blog_header":{
+    "title": "Welcome to My Blog",
+    "subtitle": "In this blog, I mainly share the knowledge of machine learning, deep learning, statistics and other data analysis techniques"
+  },
+  "author":{
+    "first_name": "Chunyu",
+    "last_name": "Ma",
+    "job_title": "PhD. Graduate student",
+    "organization": "Pennsylvania State University"
+  },
+  "about_me":{
+    "about_me": "About Me",
+    "biography": "Biography",
+    "des": "I am currently a Ph.D. candidate in Bioinformatics and Genomics Program at Pennsylvania State University with expertise in bioinformatics, statistics, knowledge graphs, drug discovery, and machine learning. I'm particularly interested in the practical applications of combining Large Language Models (LLMs) and Knowledge Graphs in biomedicine. I have hands-on experience in analyzing differnt omics data including genomics (RNA-seq), epigenomics (ChIP-seq), metabolomics (LC-MS, GCMS), and metagenomics (shotgun metagenomics). I'm also familiar with statistical models, computational algorithms, and machine learning methods (particularly in GNN). I'm currently comfortable with using Python and R as my daily programing language but also have experience in C, SQL, and Matlab. Throughout my work in bioinformatics applications, I have developed several machine learning methods, querying systems, R packages,and databases.",
+    "interests": {
+      "name": "Interests",
+      "var1": "Machine Learning",
+      "var2": "Knowledge Graphs",
+      "var3": "Drug Discovery",
+      "var4": "Metagenomics",
+      "var5": "Multi-omics Integration"
+    },
+    "education": {
+      "name": "Education",
+      "var1": {
+        "degree": "PhD in Bioinformatics,  2019-present",
+        "school": "Penn State University (USA)"
+      },
+      "var2": {
+        "degree": "MS in Biostatistics,  2015-2016",
+        "school": "Washington University in St. Louis (USA)"
+      },
+      "var3": {
+        "degree": "BS in Bioinformatics, 2010-2014",
+        "school": "Southern Medical University (China)"
+      }
+    }
+  },
+  "skills":{
+    "my_skills": "My Skills"
+  },
+  "projects":{
+    "my_projects": "My Projects",
+    "var1":{
+      "name": "FeatSNP",
+      "desc": "This is a project that I've completed during the time I worked as a RA at WUSTL. In this project I developed an interactive database for brain-specific epigenetic annotation of human SNPs."
+    },
+    "var2":{
+      "name": "xmsPANDA",
+      "desc": "This is a project I did at Clinical Biomarker Laboratory. I mainly contribled to the R shinyapp development and some analytical functions for this package."
+    },
+    "var3":{
+      "name": "xMWAS",
+      "desc": "This is a project I did at Clinical Biomarker Laboratory. I mainly contribled to the R shinyapp development for this package."
+    },
+    "var4":{
+      "name": "Phytochelatin Database",
+      "desc": "This is a project I did at Clinical Biomarker Laboratory. I mainly contribled to the contruction of the whole database based on the data provided by Kristine Dennis."
+    },
+    "var5":{
+      "name": "NCATS Translator project",
+      "desc": "The full name of this project is Biomedical Data Translator program. There are 18 teams distributed acroos USA working with NCATS to build this Translator software to accelerate the development of disease therapies by harnessing artificial intelligence, Web-based distributed computing, and computationally-assisted biomedical knowledge exploration. I’m currently a member of Expander Agent Team involving in different module progrmming."
+    }
+  },
+  "career":{
+    "my_career": "My Career",
+    "var1":{
+      "name": "Penn State University",
+      "loc": "State College, USA",
+      "desc": "I'm now working as a Research Assistant at Koslicki Laboratory and my main researech projects focus on drug repurposing and developing a new graph embedding model based on a huge biomedical knowledge graph which contains millions of nodes and tens of millions of edges.",
+      "date": "May. 2020 - present",
+      "job": "Research Assistant"
+    },
+    "var2":{
+      "name": "Phase Genomics",
+      "loc": "Seattle, USA",
+      "desc": "I worked as a Bioinformatics Intern at Phase Genomics. The project I mainly work on is about applying the CNN-based model and the GNN-based model to learn the interaction between phages (e.g., viruses) and hosts (e.g., bacteria) for accelerating phage therapy in clinical application.",
+      "date": "May. 2022 - Augst. 2022",
+      "job": "Summer Intern"
+    },
+    "var3":{
+      "name": "Emory University",
+      "loc": "Atlanta, USA",
+      "desc": "I worked as a Bioinformatician at Clinical Biomarkers Laboratory, mainly responsible for several bioinformatics tools and applications development and clinical metabolomics analysis.",
+      "date": "Feb. 2017 - Apr. 2019",
+      "job": "Bioinformatician"
+    },
+    "var4":{
+      "name": "Knight Alzheimer's Disease Research Center",
+      "loc": "St. Louis, USA",
+      "desc": "I worked at Knight Alzheimer's Disease Research Center as a Summer Intern, performing statitical analysis for several Alzheimer’s Disease studies.",
+      "date": "Jun. 2016 - Aug. 2016",
+      "job": "Summer Intern"
+    },
+    "var5":{
+      "name": "Washington University in St. Louis",
+      "loc": "St. Louis, USA",
+      "desc": "I worked as a Research Assistant at Zhang Laboratory. During this time, I developed an interactive database called 'FeatSNP' and perform WGS, RNA-seq and ChIP-seq Analysis for several studies.",
+      "date": "Oct. 2015 - Jan. 2017",
+      "job": "Research Assistant"
+    },
+    "var6":{
+      "name": "Beijing Genomics Institute",
+      "loc": "Shenzhen, China",
+      "desc": "I worked as a Bioinformatics Analyst at China National GeneBank department, working on several comparative genomics projects.",
+      "date": "Nov. 2013 - Jun. 2014",
+      "job": "Bioinformatics Analyst"
+    }
+  },
+  "publications":{
+    "my_publications": "My Publications (Selected)"
+  },
+  "blog":{
+    "my_blog": "My Blog",
+    "content":{
+      "blog_name": "Latest Blog",
+      "ML_name": "Machine Learning",
+      "DL_name": "Deep Learning",
+      "html_name": "HTML",
+      "statistics_name": "Statistics",
+      "others_name": "Others"
+    }
+  }
+
+}
